@@ -1,4 +1,4 @@
-package com.wesley.webService.config.exceptions;
+package com.wesley.webService.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
 
